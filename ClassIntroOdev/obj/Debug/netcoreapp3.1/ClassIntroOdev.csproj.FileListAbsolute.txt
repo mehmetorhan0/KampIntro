@@ -1,0 +1,13 @@
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.exe
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.deps.json
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.runtimeconfig.json
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.runtimeconfig.dev.json
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.dll
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\bin\Debug\netcoreapp3.1\ClassIntroOdev.pdb
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.csprojAssemblyReference.cache
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.AssemblyInfoInputs.cache
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.AssemblyInfo.cs
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.csproj.CoreCompileInputs.cache
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.dll
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.pdb
+C:\Users\Tahir\source\repos\KampIntro\ClassIntroOdev\obj\Debug\netcoreapp3.1\ClassIntroOdev.genruntimeconfig.cache
